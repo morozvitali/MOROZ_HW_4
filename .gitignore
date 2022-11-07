@@ -1,0 +1,11 @@
+# .idea/modules.xml
+ .idea/*.iml
+# .idea/modules
+ *.iml
+# *.ipr
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/

@@ -17,7 +17,7 @@ public class TestAnimal {
 
         animals.add(new Dog ("Bobi"));
         animals.add(new Dog ("Robi"));
-        animals.add(new Dog ("Einstaein"));
+        animals.add(new Dog ("Einstein"));
         animals.add(new Dog ("Nordy"));
         animals.add(new Dog ("Marty"));
 
@@ -34,6 +34,7 @@ public class TestAnimal {
         Cat Tom = new Cat ();
         Tom.swim(1);
         Tom.run(111);
+
 
     }
 }
